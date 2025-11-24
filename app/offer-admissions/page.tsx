@@ -8,6 +8,9 @@ const offers = [
   { src: '/offers/offer1.jpg', alt: 'Offer Letter 1' },
   { src: '/offers/offer2.jpg', alt: 'Offer Letter 2' },
   { src: '/offers/offer3.jpg', alt: 'Offer Letter 3' },
+  { src: '/offers/offer4.jpg', alt: 'Offer Letter 4' },
+  { src: '/offers/offer5.jpg', alt: 'Offer Letter 5' },
+  { src: '/offers/offer6.jpg', alt: 'Offer Letter 6' },
 ];
 
 const OfferAdmissionsPage = () => {

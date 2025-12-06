@@ -12,6 +12,7 @@ const Footer = () => {
             <p className="text-gray-400">微信: OfferMaster2009</p>
             <p className="text-gray-400">电话: 18863124830</p>
             <p className="text-gray-400">邮箱: offerprocom@gmail.com</p>
+            <p className="text-gray-400">地址: 济南市历下区工业南路海信贤文中心2号楼405室 </p>
           </div>
         </div>
         <div className="text-center text-gray-500 mt-8">

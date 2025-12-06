@@ -49,6 +49,7 @@ export default function HomePage() {
                 <p>微信: OfferMaster2009</p>
                 <p>电话: 18863124830</p>
                 <p>邮箱: offerprocom@gmail.com</p>
+                <p>地址: 济南市历下区工业南路海信贤文中心2号楼405室 </p>
                 <div className="mt-4 text-center">
                   <Image
                     src="/wechat-qrcode.png"
